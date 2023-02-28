@@ -4,3 +4,5 @@ Meu segundo projeto, visando a prática de manipulação com pandas e visualiza�
 Este projeto teve como inspiração e instrução deste vídeo aqui: https://www.youtube.com/watch?v=eMOA1pPVUc4&list=LL&index=1&t=1407s.
 
 Os dados podem ser obtidos: https://github.com/KeithGalli/Pandas-Data-Science-Tasks
+
+A minha análise pode ser acessada no arquivo: sales_analyses.ipynb
